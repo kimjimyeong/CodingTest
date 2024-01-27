@@ -1,3 +1,5 @@
+package bruth_force;
+
 import java.io.*;
 
 public class Prob6064 {
